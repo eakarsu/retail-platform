@@ -1,0 +1,9 @@
+{
+  "app": "retail-platform",
+  "features": 364,
+  "sourceApps": 18,
+  "calculatorEngines": 0,
+  "registryHash": "11dc1c64771086aeae286babbb598b90b7ef82f0ee1f0247d6dca532fa24cfc4",
+  "builtAt": "2026-09-07T22:06:03.986Z",
+  "status": "built"
+}

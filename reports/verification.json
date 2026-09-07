@@ -1,0 +1,18 @@
+{
+  "id": "retail-platform",
+  "status": "passed",
+  "features": 364,
+  "editableTables": 362,
+  "minimumRows": 15,
+  "repeatSeedCreated": 0,
+  "crud": true,
+  "persistence": true,
+  "relationships": true,
+  "revisions": true,
+  "attachments": true,
+  "exports": true,
+  "mockedAI": true,
+  "originProtection": true,
+  "sourceCalculationsExecuted": 0,
+  "verifiedAt": "2026-09-07T22:06:04.676Z"
+}

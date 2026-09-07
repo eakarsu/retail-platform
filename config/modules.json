@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ai-channel-distributor-special-pricing-recovery",
+    "name": "Channel distributor special pricing recovery",
+    "sourceProject": "ai-channel-distributor-special-pricing-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-equipment-rental-billing-damage-recovery",
+    "name": "Equipment rental billing damage recovery",
+    "sourceProject": "ai-equipment-rental-billing-damage-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-franchise-development-fee-territory-reconciliation",
+    "name": "Franchise development fee territory reconciliation",
+    "sourceProject": "ai-franchise-development-fee-territory-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-franchise-royalty-ad-fund-audit",
+    "name": "Franchise royalty ad fund audit",
+    "sourceProject": "ai-franchise-royalty-ad-fund-audit",
+    "services": []
+  },
+  {
+    "id": "ai-gift-card-breakage-settlement-reconciliation",
+    "name": "Gift card breakage settlement reconciliation",
+    "sourceProject": "ai-gift-card-breakage-settlement-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-loyalty-points-partner-settlement",
+    "name": "Loyalty points partner settlement",
+    "sourceProject": "ai-loyalty-points-partner-settlement",
+    "services": []
+  },
+  {
+    "id": "ai-retail-returns-liquidation-recovery",
+    "name": "Retail returns liquidation recovery",
+    "sourceProject": "ai-retail-returns-liquidation-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-retail-slotting-scanback-allowance-recovery",
+    "name": "Retail slotting scanback allowance recovery",
+    "sourceProject": "ai-retail-slotting-scanback-allowance-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-retail-trade-promotion-deduction-recovery",
+    "name": "Retail trade promotion deduction recovery",
+    "sourceProject": "ai-retail-trade-promotion-deduction-recovery",
+    "services": []
+  },
+  {
+    "id": "AIAuctionHousePlatform",
+    "name": "Auction house platform",
+    "sourceProject": "AIAuctionHousePlatform",
+    "services": []
+  },
+  {
+    "id": "AIEquipmentRentalPlatform",
+    "name": "Equipment rental platform",
+    "sourceProject": "AIEquipmentRentalPlatform",
+    "services": []
+  },
+  {
+    "id": "AIFranchisePerformanceBenchmarker",
+    "name": "Franchise performance benchmarker",
+    "sourceProject": "AIFranchisePerformanceBenchmarker",
+    "services": []
+  },
+  {
+    "id": "AIInventoryForecasting",
+    "name": "Inventory forecasting",
+    "sourceProject": "AIInventoryForecasting",
+    "services": []
+  },
+  {
+    "id": "AIPawnShopSecondhandDealer",
+    "name": "Pawn shop secondhand dealer",
+    "sourceProject": "AIPawnShopSecondhandDealer",
+    "services": []
+  },
+  {
+    "id": "AIVendingMachineNetworkManager",
+    "name": "Vending machine network manager",
+    "sourceProject": "AIVendingMachineNetworkManager",
+    "services": []
+  },
+  {
+    "id": "AIWholesaleDistributionOptimizer",
+    "name": "Wholesale distribution optimizer",
+    "sourceProject": "AIWholesaleDistributionOptimizer",
+    "services": []
+  },
+  {
+    "id": "multiLocationFranchise",
+    "name": "Multi location franchise",
+    "sourceProject": "multiLocationFranchise",
+    "services": []
+  },
+  {
+    "id": "pos",
+    "name": "Pos",
+    "sourceProject": "pos",
+    "services": []
+  }
+]

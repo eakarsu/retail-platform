@@ -1,0 +1,4056 @@
+{
+  "mapped": [
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "program-authorization-library",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "program-authorization-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "end-customer-registry",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "end-customer-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "product-eligibility-mapping",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "product-eligibility-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "distributor-sales-ingestion",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "distributor-sales-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "contract-price-calculation",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "contract-price-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "resale-price-validation",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "resale-price-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "claim-quantity-validation",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "claim-quantity-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "duplicate-claim-detection",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "duplicate-claim-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "authorization-period-control",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "authorization-period-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "ship-and-debit-calculation",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "ship-and-debit-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "manufacturer-claim-file",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "manufacturer-claim-file",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "rejection-remediation",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "rejection-remediation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "credit-memo-matching",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "credit-memo-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "distributor-settlement",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "distributor-settlement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "program-customer-analytics",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/app.config.mjs",
+      "canonical": "program-customer-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "vendor-contract-and-rate-library",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "vendor-contract-and-rate-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "equipment-and-asset-registry",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "equipment-and-asset-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "dispatch-delivery-and-pickup-timeline",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "dispatch-delivery-and-pickup-timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "on-rent-and-off-rent-validation",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "on-rent-and-off-rent-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "daily-weekly-monthly-rate-calculation",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "daily-weekly-monthly-rate-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "meter-and-overtime-usage-audit",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "meter-and-overtime-usage-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "fuel-and-refueling-charge-validation",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "fuel-and-refueling-charge-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "delivery-pickup-and-mobilization-audit",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "delivery-pickup-and-mobilization-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "maintenance-and-downtime-credits",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "maintenance-and-downtime-credits",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "damage-condition-comparison",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "damage-condition-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "damage-estimate-and-responsibility",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "damage-estimate-and-responsibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "duplicate-and-overlapping-rental-detection",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "duplicate-and-overlapping-rental-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "invoice-dispute-package",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "invoice-dispute-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "vendor-credit-and-payment-reconciliation",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "vendor-credit-and-payment-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "asset-vendor-and-project-analytics",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/app.config.mjs",
+      "canonical": "asset-vendor-and-project-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "development-agreement-library",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "development-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "territory-boundary-mapping",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "territory-boundary-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "franchisee-entity-registry",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "franchisee-entity-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "unit-schedule-tracking",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "unit-schedule-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "site-approval-milestones",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "site-approval-milestones",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "opening-deadline-control",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "opening-deadline-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "initial-fee-calculation",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "initial-fee-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "renewal-fee-calculation",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "renewal-fee-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "transfer-fee-calculation",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "transfer-fee-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "development-default-detection",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "development-default-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "notice-cure-workflow",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "notice-cure-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "invoice-generation",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "invoice-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "franchisee-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "franchisee-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "territory-unit-analytics",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/app.config.mjs",
+      "canonical": "territory-unit-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "franchise-agreement-library",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "franchise-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "location-and-ownership-registry",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "location-and-ownership-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "pos-sales-ingestion",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "pos-sales-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "delivery-platform-reconciliation",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "delivery-platform-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "bank-deposit-reconciliation",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "bank-deposit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "tax-return-comparison",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "tax-return-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "gross-sales-reconstruction",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "gross-sales-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "exclusion-and-discount-validation",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "exclusion-and-discount-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "royalty-recalculation",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "royalty-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "advertising-fund-recalculation",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "advertising-fund-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "late-fee-and-interest-calculation",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "late-fee-and-interest-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "franchisee-audit-workbench",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "franchisee-audit-workbench",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "finding-and-evidence-package",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "finding-and-evidence-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "response-and-collection-tracking",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "response-and-collection-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "systemwide-leakage-analytics",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/app.config.mjs",
+      "canonical": "systemwide-leakage-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "program-processor-agreements",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "program-processor-agreements",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "card-issuance-ledger",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "card-issuance-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "activation-reconciliation",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "activation-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "redemption-ingestion",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "redemption-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "multi-brand-settlement",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "multi-brand-settlement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "merchant-funding-calculation",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "merchant-funding-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "processor-fee-audit",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "processor-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "fraud-duplicate-redemption",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "fraud-duplicate-redemption",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "refund-replacement-control",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "refund-replacement-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "breakage-estimation",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "breakage-estimation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "recognition-schedules",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "recognition-schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "unclaimed-property-classification",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "unclaimed-property-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "partner-settlement-reconciliation",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "partner-settlement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "cash-liability-reconciliation",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "cash-liability-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "program-analytics",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/app.config.mjs",
+      "canonical": "program-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "partner-agreement-library",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "partner-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "member-account-registry",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "member-account-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "earn-event-ingestion",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "earn-event-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "redemption-event-ingestion",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "redemption-event-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "transfer-conversion-ratios",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "transfer-conversion-ratios",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "partner-purchase-rate-calculation",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "partner-purchase-rate-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "redemption-reimbursement",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "redemption-reimbursement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "promotional-bonus-allocation",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "promotional-bonus-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "reversal-refund-control",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "reversal-refund-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "expiration-breakage",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "expiration-breakage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "fraud-duplicate-events",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "fraud-duplicate-events",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "partner-statement-reconciliation",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "partner-statement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "settlement-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "settlement-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "partner-program-economics",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/app.config.mjs",
+      "canonical": "partner-program-economics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "return-policy-library",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "return-policy-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "rma-ingestion",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "rma-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "carrier-event-tracking",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "carrier-event-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "warehouse-receipt-matching",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "warehouse-receipt-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "condition-grade-validation",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "condition-grade-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "restock-eligibility",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "restock-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "refurbishment-economics",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "refurbishment-economics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "liquidation-lot-creation",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "liquidation-lot-creation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "expected-resale-value",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "expected-resale-value",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "channel-fee-audit",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "channel-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "missing-unit-detection",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "missing-unit-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "liquidator-statement-reconciliation",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "liquidator-statement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "dispute-workflow",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "cash-recovery-tracking",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "cash-recovery-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "product-disposition-analytics",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/app.config.mjs",
+      "canonical": "product-disposition-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "retailer-program-library",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "retailer-program-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "store-sku-registry",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "store-sku-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "slotting-commitment-tracking",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "slotting-commitment-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "new-store-authorization",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "new-store-authorization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "pos-scan-ingestion",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "pos-scan-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "scan-back-calculation",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "scan-back-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "display-placement-evidence",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "display-placement-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "advertising-compliance",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "advertising-compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "proof-of-performance-collection",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "proof-of-performance-collection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "deduction-matching",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "deduction-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "earned-allowance-calculation",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "earned-allowance-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "supplier-claim-package",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "supplier-claim-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "supplier-response-workflow",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "supplier-response-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "cash-credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "cash-credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "store-sku-program-analytics",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/app.config.mjs",
+      "canonical": "store-sku-program-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-trade-promotion-deduction-recovery",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-retail-trade-promotion-deduction-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-trade-promotion-deduction-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-retail-trade-promotion-deduction-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retail-trade-promotion-deduction-recovery",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-retail-trade-promotion-deduction-recovery/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/consignors",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "consignors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/items",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "items",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/auctions",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "auctions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/bidders",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "bidders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/live-auctions",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "live-auctions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/shipping",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "shipping",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/conditions",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "conditions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/storage",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "storage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/ai/lot-description",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "lot-description",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/ai/valuation",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "valuation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/ai/authenticity",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "authenticity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/ai/marketing",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "marketing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/ai/buyer-matching",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "buyer-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/ai/market-trends",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "market-trends",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/photography",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "photography",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/catalog",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "catalog",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/campaigns",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/payments",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "payments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/unsold-lots",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "unsold-lots",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/appraisals",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "appraisals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "/estates",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform/frontend/src/pages/Dashboard.js",
+      "canonical": "estates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/similarity-matcher",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "similarity-matcher",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/bidding-analytics",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "bidding-analytics",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/provenance-verification",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "provenance-verification",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/multi-language-catalog",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "multi-language-catalog",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/condition-report",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "condition-report",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/buyer-preference",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "buyer-preference",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/insurance-valuation",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "insurance-valuation",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/photo-enhancement",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "photo-enhancement",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/dynamic-reserve-pricing",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "dynamic-reserve-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/predict-final-price",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "predict-final-price",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/shill-bidding-detection",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "shill-bidding-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/external-auction-search",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "external-auction-search",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "sourceKey": "ai/insurance-policy-recommendation",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "canonical": "insurance-policy-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/price-optimization",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "price-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/equipment-matching",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "equipment-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/demand-forecast",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "demand-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/maintenance-predictor",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "maintenance-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/contract-generator",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "contract-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/chatbot",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "chatbot",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/fraud-detection",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "fraud-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/market-analysis",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "market-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/equipment-valuation",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "equipment-valuation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/review-analyzer",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "review-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/inventory-optimizer",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "inventory-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/route-planner",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "route-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/risk-assessment",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/description-generator",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "description-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/insurance-advisor",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "insurance-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/nearby",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "nearby",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/rentals",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "rentals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/bids",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "bids",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/reviews",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/damage-reports",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "damage-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/return-inspection",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "return-inspection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/identity",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "identity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai-insights",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "canonical": "insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/fleet-analytics",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/pages/AICenter.jsx",
+      "canonical": "fleet-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/insurance-claim-assist",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/pages/AICenter.jsx",
+      "canonical": "insurance-claim-assist",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/dynamic-seasonal-pricing",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/pages/AICenter.jsx",
+      "canonical": "dynamic-seasonal-pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "sourceKey": "/ai/agentic-marketplace-search",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/pages/AICenter.jsx",
+      "canonical": "agentic-marketplace-search",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "ai-benchmark",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "benchmark",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "cf-agentic-compliance-auditor-reviewing-pls",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "agentic-compliance-auditor-reviewing-pls",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "cf-dynamic-territory-optimization-recommend",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "dynamic-territory-optimization-recommend",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "cf-real-time-websocket-dashboard-for-corpor",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "real-time-websocket-dashboard-for-corpor",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "cf-supplier-bulk-buy-advisor-aggregating-pu",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "supplier-bulk-buy-advisor-aggregating-pu",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "cf-brand-standard-photo-audit-via-vision",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "brand-standard-photo-audit-via-vision",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "cf-franchisee-peer-mentoring-marketplace-wi",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "franchisee-peer-mentoring-marketplace-wi",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "gap-no-territory-optimization-ai-consolidati",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "territory-optimization-ai-consolidati",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "gap-no-franchisee-ltv-or-churn-prediction",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "franchisee-ltv-or-churn-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "gap-no-marketing-spend-optimizer-across-unit",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "marketing-spend-optimizer-across-unit",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "gap-no-multi-unit-demand-forecasting",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "multi-unit-demand-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "gap-no-franchise-units-crud-surfaced-as",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "franchise-units-crud-surfaced-as",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "gap-no-paymentbilling-integration",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "paymentbilling-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "gap-no-real-time-websocket-dashboard-updates",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "real-time-websocket-dashboard-updates",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "gap-no-vendor-contract-management",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "vendor-contract-management",
+      "kind": "route"
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "sourceKey": "gap-no-franchisee-onboarding-workflow",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "canonical": "franchisee-onboarding-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/products",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/forecasts",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "forecasts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/suppliers",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "suppliers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/orders",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/demand-predictor",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "demand-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/supplier-risk",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "supplier-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/reorder-optimizer",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "reorder-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/dead-stock",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "dead-stock",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/warehouse-optimizer",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "warehouse-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/inventory-optimizer",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "inventory-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/shipment-tracker",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "shipment-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/promotion-simulator",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "canonical": "promotion-simulator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "markdown-timing",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "markdown-timing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "supplier-disruption-simulator",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "supplier-disruption-simulator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "multi-warehouse-balancing",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "multi-warehouse-balancing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/products",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/Dashboard.jsx",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/forecasts",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/Dashboard.jsx",
+      "canonical": "forecasts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/suppliers",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/Dashboard.jsx",
+      "canonical": "suppliers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/orders",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/Dashboard.jsx",
+      "canonical": "orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/demand-predictor",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/Dashboard.jsx",
+      "canonical": "demand-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/supplier-risk",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/Dashboard.jsx",
+      "canonical": "supplier-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/reorder-optimizer",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/Dashboard.jsx",
+      "canonical": "reorder-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/dead-stock",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/Dashboard.jsx",
+      "canonical": "dead-stock",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/warehouse-optimizer",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/Dashboard.jsx",
+      "canonical": "warehouse-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/inventory-optimizer",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/Dashboard.jsx",
+      "canonical": "inventory-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "/shipment-tracker",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/pages/Dashboard.jsx",
+      "canonical": "shipment-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "pass5-tools",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "pass5-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "expiry-waste-optimizer",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "expiry-waste-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "cf-agentic-inventory-manager-autonomously-p",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "agentic-inventory-manager-autonomously-p",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "cf-demand-supply-fusion-integrating-custome",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "demand-supply-fusion-integrating-custome",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "cf-multi-warehouse-network-optimization-rec",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "multi-warehouse-network-optimization-rec",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "cf-markdown-clearance-optimizer-balancing-d",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "markdown-clearance-optimizer-balancing-d",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "cf-supplier-performance-reliability-trackin",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "supplier-performance-reliability-trackin",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "cf-seasonal-promotional-planning-coordinate",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "seasonal-promotional-planning-coordinate",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "gap-no-markdown-timing-ai",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "markdown-timing-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "gap-no-supplier-disruption-simulator",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "supplier-disruption-simulator",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "gap-no-multi-warehouse-balancing-ai",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "multi-warehouse-balancing-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "gap-no-sku-rationalization-which-skus-to",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "sku-rationalization-which-skus-to",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "gap-live-erp-sap-netsuite-integrations-still",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "live-erp-sap-netsuite-integrations-still",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "gap-no-financial-pl-module",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "financial-pl-module",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "gap-no-notifications-module-0-references",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "notifications-module-0-references",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "gap-no-webhook-surface",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "webhook-surface",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "gap-no-file-upload-for-supplier-docs",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "file-upload-for-supplier-docs",
+      "kind": "route"
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "sourceKey": "gap-no-real-time-websocket-inventory-updates",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "canonical": "real-time-websocket-inventory-updates",
+      "kind": "route"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/loans",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "loans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/payments",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "payments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/layaway",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "layaway",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/hold-periods",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "hold-periods",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/precious-metals",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "precious-metals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/firearms",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "firearms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/police-reports",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "police-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/cash-drawer",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "cash-drawer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/receipts",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "receipts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/auctions",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "auctions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/ai-predictive",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "predictive",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/cf-agentic-valuation",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "agentic-valuation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/cf-compliance-automation",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "compliance-automation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/cf-pricing-recommendation-engine",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "pricing-recommendation-engine",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/cf-customer-segmentation-marketing",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "customer-segmentation-marketing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/cf-loan-default-prediction-intervention",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "loan-default-prediction-intervention",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/gap-auctions-without-auction",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "auctions-without-auction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/gap-hold",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "hold",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/gap-cash",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "cash",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/gap-customers-without-customer",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "customers-without-customer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/gap-no-integration-with-ncic-stolen-goods-databases-fb",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "integration-with-ncic-stolen-goods-databases-fb",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/gap-limited-atf-firearms-tracking-integration-some-int",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "limited-atf-firearms-tracking-integration-some-int",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/gap-no-customer-id-verification-system-age-address-for",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "customer-id-verification-system-age-address-for",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/gap-no-multi",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "multi",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/gap-no-audit-trail-dedicated-module-grep-showed-0-audi",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "audit-trail-dedicated-module-grep-showed-0-audi",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/gap-no-webhooks-for-stolen",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "webhooks-for-stolen",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "/gap-no-mobile-app-for-showroom-floor-staff",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "canonical": "mobile-app-for-showroom-floor-staff",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "auction-price",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AIPredictive.jsx",
+      "canonical": "auction-price",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "expiration",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AIPredictive.jsx",
+      "canonical": "expiration",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "lifetime-value",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AIPredictive.jsx",
+      "canonical": "lifetime-value",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "theft-detection",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AIPredictive.jsx",
+      "canonical": "theft-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "valuation",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AITools.jsx",
+      "canonical": "valuation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "market",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AITools.jsx",
+      "canonical": "market",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "risk",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AITools.jsx",
+      "canonical": "risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "counterfeit",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AITools.jsx",
+      "canonical": "counterfeit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "regulatory",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AITools.jsx",
+      "canonical": "regulatory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "negotiation",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AITools.jsx",
+      "canonical": "negotiation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "market_price",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AITools.jsx",
+      "canonical": "market-price",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "loan_calc",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AITools.jsx",
+      "canonical": "loan-calc",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "sourceKey": "compliance",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/pages/AITools.jsx",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/machines",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "machines",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/products",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/planograms",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "planograms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/routes",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/cash",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/sales",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "sales",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/ai/demand-forecast",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "demand-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/ai/dynamic-pricing",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "dynamic-pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/ai/predictive-maintenance",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "predictive-maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/ai/route-optimization",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "route-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/ai/anomaly-detection",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "anomaly-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/ai/integrations",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/machines",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "machines",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/products",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/planograms",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "planograms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/routes",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/cash",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "cash",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/sales",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "sales",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "cf-ai-demand-forecaster-by-machine-location-time-for",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "ai-demand-forecaster-by-machine-location-time-for",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "cf-route-optimizer-minimizing-collection-restocking-distance",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "route-optimizer-minimizing-collection-restocking-distance",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "cf-dynamic-pricing-recommendations-by-demand-inventory-seasonality",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "dynamic-pricing-recommendations-by-demand-inventory-seasonality",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "cf-predictive-maintenance-based-on-telemetry-signatures",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "predictive-maintenance-based-on-telemetry-signatures",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "cf-theft-detection-identifying-cash-inventory-discrepancies",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "theft-detection-identifying-cash-inventory-discrepancies",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "cf-cashless-wallet-qr-integration-for-modern-vending",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "cashless-wallet-qr-integration-for-modern-vending",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "gap-no-demand-forecasting-ai",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "demand-forecasting-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "gap-no-ai-driven-route-optimization",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "ai-driven-route-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "gap-no-dynamic-pricing-ai",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "dynamic-pricing-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "gap-no-predictive-maintenance-ml",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "predictive-maintenance-ml",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "gap-no-theft-anomaly-detection-ai",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "theft-anomaly-detection-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "gap-limited-payment-processor-integration-only-a-stub-integrations",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "limited-payment-processor-integration-only-a-stub-integrations",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "gap-no-cashless-payment-tracking",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "cashless-payment-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "gap-no-supplier-integration-for-auto-ordering",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "supplier-integration-for-auto-ordering",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "gap-no-real-time-gps-location-tracking-for-the-fleet",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "real-time-gps-location-tracking-for-the-fleet",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "gap-no-notifications-subsystem-alerts-only",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "notifications-subsystem-alerts-only",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "sourceKey": "gap-no-multi-tenant-operator-separation",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "canonical": "multi-tenant-operator-separation",
+      "kind": "route"
+    },
+    {
+      "project": "AIWholesaleDistributionOptimizer",
+      "sourceKey": "customer-churn",
+      "source": "/Volumes/external/projects/AIWholesaleDistributionOptimizer",
+      "canonical": "customer-churn",
+      "kind": "route"
+    },
+    {
+      "project": "AIWholesaleDistributionOptimizer",
+      "sourceKey": "dynamic-discount",
+      "source": "/Volumes/external/projects/AIWholesaleDistributionOptimizer",
+      "canonical": "dynamic-discount",
+      "kind": "route"
+    },
+    {
+      "project": "AIWholesaleDistributionOptimizer",
+      "sourceKey": "supplier-diversification",
+      "source": "/Volumes/external/projects/AIWholesaleDistributionOptimizer",
+      "canonical": "supplier-diversification",
+      "kind": "route"
+    },
+    {
+      "project": "AIWholesaleDistributionOptimizer",
+      "sourceKey": "pos-demand-sensing",
+      "source": "/Volumes/external/projects/AIWholesaleDistributionOptimizer",
+      "canonical": "pos-demand-sensing",
+      "kind": "route"
+    },
+    {
+      "project": "AIWholesaleDistributionOptimizer",
+      "sourceKey": "collab-forecast",
+      "source": "/Volumes/external/projects/AIWholesaleDistributionOptimizer",
+      "canonical": "collab-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIWholesaleDistributionOptimizer",
+      "sourceKey": "contract-renewal",
+      "source": "/Volumes/external/projects/AIWholesaleDistributionOptimizer",
+      "canonical": "contract-renewal",
+      "kind": "route"
+    },
+    {
+      "project": "AIWholesaleDistributionOptimizer",
+      "sourceKey": "freight-optimize",
+      "source": "/Volumes/external/projects/AIWholesaleDistributionOptimizer",
+      "canonical": "freight-optimize",
+      "kind": "route"
+    },
+    {
+      "project": "AIWholesaleDistributionOptimizer",
+      "sourceKey": "erp-sync",
+      "source": "/Volumes/external/projects/AIWholesaleDistributionOptimizer",
+      "canonical": "erp-sync",
+      "kind": "route"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/locations",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "locations",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/products",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/brand/guidelines",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "brand-guidelines",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/brand/templates",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/brand/vendors",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "brand-vendors",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/brand/training",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "brand-training",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/operations/sops",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "operations-sops",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/operations/checklists",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "operations-checklists",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/operations/audits",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "operations-audits",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/operations/issues",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "operations-issues",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/operations/best-practices",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "operations-best-practices",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/financial",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "financial",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/announcements",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "announcements",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/messages",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/knowledge",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "knowledge",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "/support",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "canonical": "support",
+      "kind": "definition"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "users",
+      "source": "/Volumes/external/projects/multiLocationFranchise",
+      "canonical": "users",
+      "kind": "route"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "territories",
+      "source": "/Volumes/external/projects/multiLocationFranchise",
+      "canonical": "territories",
+      "kind": "route"
+    },
+    {
+      "project": "multiLocationFranchise",
+      "sourceKey": "financial/royalties",
+      "source": "/Volumes/external/projects/multiLocationFranchise",
+      "canonical": "financial-royalties",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "/app/dashboard",
+      "source": "/Volumes/external/projects/pos/frontend/src/components/Layout.tsx",
+      "canonical": "app-dashboard",
+      "kind": "definition"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "/app/pos",
+      "source": "/Volumes/external/projects/pos/frontend/src/components/Layout.tsx",
+      "canonical": "app-pos",
+      "kind": "definition"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "/app/products",
+      "source": "/Volumes/external/projects/pos/frontend/src/components/Layout.tsx",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "/app/customers",
+      "source": "/Volumes/external/projects/pos/frontend/src/components/Layout.tsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "/app/inventory",
+      "source": "/Volumes/external/projects/pos/frontend/src/components/Layout.tsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "/app/reports",
+      "source": "/Volumes/external/projects/pos/frontend/src/components/Layout.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "/app/margin-leak",
+      "source": "/Volumes/external/projects/pos/frontend/src/components/Layout.tsx",
+      "canonical": "app-margin-leak",
+      "kind": "definition"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "/app/ai",
+      "source": "/Volumes/external/projects/pos/frontend/src/components/Layout.tsx",
+      "canonical": "app-ai",
+      "kind": "definition"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "/app/settings",
+      "source": "/Volumes/external/projects/pos/frontend/src/components/Layout.tsx",
+      "canonical": "app-settings",
+      "kind": "definition"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "resources",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "resources",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "support",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "support",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "solutions",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "solutions",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "connections",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "integrations/stripe",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "integrations-stripe",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "integrations/quickbooks",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "integrations-quickbooks",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "integrations/shopify",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "integrations-shopify",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "api",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "api",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "solutions/retail",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "solutions-retail",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "solutions/restaurant",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "solutions-restaurant",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "solutions/salon",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "solutions-salon",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "solutions/multi-location",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "solutions-multi-location",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "careers",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "careers",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "press",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "press",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "partners",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "partners",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "community",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "community",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "security",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "security",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "verify-email",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "verify-email",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "demo",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "demo",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "app",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "app",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "pos",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "app-pos",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "products",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "products",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "customers",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "clients",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "inventory",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "inventory",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "ai/upsell",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "upsell",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "margin-leak",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "app-margin-leak",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap/product-recommendation",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "product-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap/demand-forecasting",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "demand-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap/dynamic-pricing",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "dynamic-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap/drawer-anomaly",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "drawer-anomaly",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap/payment-terminal",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "payment-terminal",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap/receipt-printing",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "receipt-printing",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap/multi-location",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "solutions-multi-location",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap/employee-shifts",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "employee-shifts",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap/tax-jurisdictions",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "tax-jurisdictions",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap/loyalty-giftcards",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "loyalty-giftcards",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap-product-recommendation",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "product-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap-demand-forecasting",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "demand-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap-dynamic-pricing",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "dynamic-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap-drawer-anomaly",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "drawer-anomaly",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap-payment-terminal",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "payment-terminal",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap-receipt-printing",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "receipt-printing",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap-multi-location",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "solutions-multi-location",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap-employee-shifts",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "employee-shifts",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap-tax-jurisdictions",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "tax-jurisdictions",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap-loyalty-giftcards",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "loyalty-giftcards",
+      "kind": "route"
+    },
+    {
+      "project": "pos",
+      "sourceKey": "gap-features/_audit",
+      "source": "/Volumes/external/projects/pos",
+      "canonical": "audit",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-channel-distributor-special-pricing-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-channel-distributor-special-pricing-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-equipment-rental-billing-damage-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-equipment-rental-billing-damage-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-franchise-development-fee-territory-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-franchise-development-fee-territory-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-franchise-royalty-ad-fund-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-franchise-royalty-ad-fund-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-gift-card-breakage-settlement-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-gift-card-breakage-settlement-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-loyalty-points-partner-settlement",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-loyalty-points-partner-settlement/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-retail-returns-liquidation-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-retail-returns-liquidation-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-retail-slotting-scanback-allowance-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-retail-slotting-scanback-allowance-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAuctionHousePlatform",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAuctionHousePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "/equipment/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "/rentals/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "/reviews/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIEquipmentRentalPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEquipmentRentalPlatform",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFranchisePerformanceBenchmarker",
+      "key": "extensions",
+      "source": "/Volumes/external/projects/AIFranchisePerformanceBenchmarker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "/advanced-ai",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIInventoryForecasting/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "advanced-ai",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInventoryForecasting",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIInventoryForecasting",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer/client/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIPawnShopSecondhandDealer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPawnShopSecondhandDealer",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "/pricing",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "/pricing",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "pricing",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "pricing",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVendingMachineNetworkManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIVendingMachineNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiLocationFranchise",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/multiLocationFranchise/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiLocationFranchise",
+      "key": "login",
+      "source": "/Volumes/external/projects/multiLocationFranchise",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiLocationFranchise",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "multiLocationFranchise",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/multiLocationFranchise",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiLocationFranchise",
+      "key": "/locations/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "multiLocationFranchise",
+      "key": "profile",
+      "source": "/Volumes/external/projects/multiLocationFranchise",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiLocationFranchise",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "pos",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "pos",
+      "key": "features",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "pricing",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "/integrations/:name",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "pos",
+      "key": "about",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "help",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "status",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "privacy",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "terms",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "login",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "ai",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "settings",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "settings",
+      "source": "/Volumes/external/projects/pos",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pos",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "program-authorization-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "end-customer-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-eligibility-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "distributor-sales-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contract-price-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "resale-price-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-quantity-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-claim-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "authorization-period-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ship-and-debit-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "manufacturer-claim-file",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rejection-remediation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-memo-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "distributor-settlement",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-customer-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-contract-and-rate-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "equipment-and-asset-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dispatch-delivery-and-pickup-timeline",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "on-rent-and-off-rent-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "daily-weekly-monthly-rate-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "meter-and-overtime-usage-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fuel-and-refueling-charge-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "delivery-pickup-and-mobilization-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "maintenance-and-downtime-credits",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "damage-condition-comparison",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "damage-estimate-and-responsibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-and-overlapping-rental-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-dispute-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-credit-and-payment-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "asset-vendor-and-project-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "development-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "territory-boundary-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "franchisee-entity-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unit-schedule-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "site-approval-milestones",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "opening-deadline-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "initial-fee-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "renewal-fee-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transfer-fee-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "development-default-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "notice-cure-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "franchisee-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "territory-unit-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "franchise-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "location-and-ownership-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pos-sales-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "delivery-platform-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bank-deposit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-return-comparison",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "gross-sales-reconstruction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "exclusion-and-discount-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "royalty-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "advertising-fund-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "late-fee-and-interest-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "franchisee-audit-workbench",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "finding-and-evidence-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "response-and-collection-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "systemwide-leakage-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-processor-agreements",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "card-issuance-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "activation-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "redemption-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "multi-brand-settlement",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "merchant-funding-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "processor-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fraud-duplicate-redemption",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-replacement-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "breakage-estimation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recognition-schedules",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unclaimed-property-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-settlement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-liability-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "member-account-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "earn-event-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "redemption-event-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transfer-conversion-ratios",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-purchase-rate-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "redemption-reimbursement",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "promotional-bonus-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reversal-refund-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "expiration-breakage",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fraud-duplicate-events",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-statement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "settlement-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-program-economics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "return-policy-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rma-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-event-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "warehouse-receipt-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "condition-grade-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "restock-eligibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refurbishment-economics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "liquidation-lot-creation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "expected-resale-value",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "channel-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "missing-unit-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "liquidator-statement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-recovery-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-disposition-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "retailer-program-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "store-sku-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "slotting-commitment-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "new-store-authorization",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pos-scan-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "scan-back-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "display-placement-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "advertising-compliance",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "proof-of-performance-collection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "deduction-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "earned-allowance-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-claim-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-response-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "store-sku-program-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}

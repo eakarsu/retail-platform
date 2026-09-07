@@ -1,0 +1,1461 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "regulatory",
+      "verify-email"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "regulatory",
+        "title": "Regulatory Report Draft",
+        "originalPath": "/features/regulatory"
+      },
+      {
+        "id": "verify-email",
+        "title": "Verify email",
+        "originalPath": "/features/verify-email"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "program-authorization-library",
+      "end-customer-registry",
+      "ship-and-debit-calculation",
+      "manufacturer-claim-file",
+      "rejection-remediation",
+      "program-customer-analytics",
+      "vendor-contract-and-rate-library",
+      "equipment-and-asset-registry",
+      "daily-weekly-monthly-rate-calculation",
+      "damage-condition-comparison",
+      "damage-estimate-and-responsibility",
+      "asset-vendor-and-project-analytics",
+      "development-agreement-library",
+      "territory-boundary-mapping",
+      "franchisee-entity-registry",
+      "site-approval-milestones",
+      "notice-cure-workflow",
+      "franchisee-dispute-workflow",
+      "territory-unit-analytics",
+      "franchise-agreement-library",
+      "location-and-ownership-registry",
+      "advertising-fund-recalculation",
+      "response-and-collection-tracking",
+      "systemwide-leakage-analytics",
+      "program-processor-agreements",
+      "card-issuance-ledger",
+      "redemption-ingestion",
+      "merchant-funding-calculation",
+      "breakage-estimation",
+      "program-analytics",
+      "partner-agreement-library",
+      "member-account-registry",
+      "earn-event-ingestion",
+      "redemption-event-ingestion",
+      "partner-purchase-rate-calculation",
+      "promotional-bonus-allocation",
+      "expiration-breakage",
+      "partner-program-economics",
+      "rma-ingestion",
+      "carrier-event-tracking",
+      "refurbishment-economics",
+      "liquidation-lot-creation",
+      "expected-resale-value",
+      "dispute-workflow",
+      "cash-recovery-tracking",
+      "product-disposition-analytics",
+      "retailer-program-library",
+      "store-sku-registry",
+      "slotting-commitment-tracking",
+      "new-store-authorization",
+      "pos-scan-ingestion",
+      "scan-back-calculation",
+      "proof-of-performance-collection",
+      "earned-allowance-calculation",
+      "supplier-claim-package",
+      "supplier-response-workflow",
+      "store-sku-program-analytics",
+      "lot-description",
+      "valuation",
+      "authenticity",
+      "similarity-matcher",
+      "bidding-analytics",
+      "multi-language-catalog",
+      "condition-report",
+      "buyer-preference",
+      "insurance-valuation",
+      "photo-enhancement",
+      "external-auction-search",
+      "contract-generator",
+      "chatbot",
+      "equipment-valuation",
+      "route-planner",
+      "description-generator",
+      "insurance-advisor",
+      "equipment",
+      "nearby",
+      "rentals",
+      "bids",
+      "reviews",
+      "damage-reports",
+      "identity",
+      "fleet-analytics",
+      "dead-stock",
+      "warehouse-optimizer",
+      "shipment-tracker",
+      "promotion-simulator",
+      "markdown-timing",
+      "supplier-disruption-simulator",
+      "multi-warehouse-balancing",
+      "markdown-timing-ai",
+      "multi-warehouse-balancing-ai",
+      "inventory",
+      "cash",
+      "lifetime-value",
+      "negotiation",
+      "loan-calc",
+      "planograms",
+      "app-ai",
+      "solutions-retail"
+    ],
+    "ai": true,
+    "representativeId": "program-authorization-library",
+    "description": "One assistant for 99 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "program-authorization-library",
+        "title": "Program authorization library",
+        "originalPath": "/features/program-authorization-library"
+      },
+      {
+        "id": "end-customer-registry",
+        "title": "End-customer registry",
+        "originalPath": "/features/end-customer-registry"
+      },
+      {
+        "id": "ship-and-debit-calculation",
+        "title": "Ship-and-debit calculation",
+        "originalPath": "/features/ship-and-debit-calculation"
+      },
+      {
+        "id": "manufacturer-claim-file",
+        "title": "Manufacturer claim file",
+        "originalPath": "/features/manufacturer-claim-file"
+      },
+      {
+        "id": "rejection-remediation",
+        "title": "Rejection remediation",
+        "originalPath": "/features/rejection-remediation"
+      },
+      {
+        "id": "program-customer-analytics",
+        "title": "Program customer analytics",
+        "originalPath": "/features/program-customer-analytics"
+      },
+      {
+        "id": "vendor-contract-and-rate-library",
+        "title": "Vendor contract and rate library",
+        "originalPath": "/features/vendor-contract-and-rate-library"
+      },
+      {
+        "id": "equipment-and-asset-registry",
+        "title": "Equipment and asset registry",
+        "originalPath": "/features/equipment-and-asset-registry"
+      },
+      {
+        "id": "daily-weekly-monthly-rate-calculation",
+        "title": "Daily weekly monthly rate calculation",
+        "originalPath": "/features/daily-weekly-monthly-rate-calculation"
+      },
+      {
+        "id": "damage-condition-comparison",
+        "title": "Damage condition comparison",
+        "originalPath": "/features/damage-condition-comparison"
+      },
+      {
+        "id": "damage-estimate-and-responsibility",
+        "title": "Damage estimate and responsibility",
+        "originalPath": "/features/damage-estimate-and-responsibility"
+      },
+      {
+        "id": "asset-vendor-and-project-analytics",
+        "title": "Asset vendor and project analytics",
+        "originalPath": "/features/asset-vendor-and-project-analytics"
+      },
+      {
+        "id": "development-agreement-library",
+        "title": "Development agreement library",
+        "originalPath": "/features/development-agreement-library"
+      },
+      {
+        "id": "territory-boundary-mapping",
+        "title": "Territory boundary mapping",
+        "originalPath": "/features/territory-boundary-mapping"
+      },
+      {
+        "id": "franchisee-entity-registry",
+        "title": "Franchisee entity registry",
+        "originalPath": "/features/franchisee-entity-registry"
+      },
+      {
+        "id": "site-approval-milestones",
+        "title": "Site approval milestones",
+        "originalPath": "/features/site-approval-milestones"
+      },
+      {
+        "id": "notice-cure-workflow",
+        "title": "Notice cure workflow",
+        "originalPath": "/features/notice-cure-workflow"
+      },
+      {
+        "id": "franchisee-dispute-workflow",
+        "title": "Franchisee dispute workflow",
+        "originalPath": "/features/franchisee-dispute-workflow"
+      },
+      {
+        "id": "territory-unit-analytics",
+        "title": "Territory unit analytics",
+        "originalPath": "/features/territory-unit-analytics"
+      },
+      {
+        "id": "franchise-agreement-library",
+        "title": "Franchise agreement library",
+        "originalPath": "/features/franchise-agreement-library"
+      },
+      {
+        "id": "location-and-ownership-registry",
+        "title": "Location and ownership registry",
+        "originalPath": "/features/location-and-ownership-registry"
+      },
+      {
+        "id": "advertising-fund-recalculation",
+        "title": "Advertising-fund recalculation",
+        "originalPath": "/features/advertising-fund-recalculation"
+      },
+      {
+        "id": "response-and-collection-tracking",
+        "title": "Response and collection tracking",
+        "originalPath": "/features/response-and-collection-tracking"
+      },
+      {
+        "id": "systemwide-leakage-analytics",
+        "title": "Systemwide leakage analytics",
+        "originalPath": "/features/systemwide-leakage-analytics"
+      },
+      {
+        "id": "program-processor-agreements",
+        "title": "Program processor agreements",
+        "originalPath": "/features/program-processor-agreements"
+      },
+      {
+        "id": "card-issuance-ledger",
+        "title": "Card issuance ledger",
+        "originalPath": "/features/card-issuance-ledger"
+      },
+      {
+        "id": "redemption-ingestion",
+        "title": "Redemption ingestion",
+        "originalPath": "/features/redemption-ingestion"
+      },
+      {
+        "id": "merchant-funding-calculation",
+        "title": "Merchant funding calculation",
+        "originalPath": "/features/merchant-funding-calculation"
+      },
+      {
+        "id": "breakage-estimation",
+        "title": "Breakage estimation",
+        "originalPath": "/features/breakage-estimation"
+      },
+      {
+        "id": "program-analytics",
+        "title": "Program analytics",
+        "originalPath": "/features/program-analytics"
+      },
+      {
+        "id": "partner-agreement-library",
+        "title": "Partner agreement library",
+        "originalPath": "/features/partner-agreement-library"
+      },
+      {
+        "id": "member-account-registry",
+        "title": "Member account registry",
+        "originalPath": "/features/member-account-registry"
+      },
+      {
+        "id": "earn-event-ingestion",
+        "title": "Earn-event ingestion",
+        "originalPath": "/features/earn-event-ingestion"
+      },
+      {
+        "id": "redemption-event-ingestion",
+        "title": "Redemption-event ingestion",
+        "originalPath": "/features/redemption-event-ingestion"
+      },
+      {
+        "id": "partner-purchase-rate-calculation",
+        "title": "Partner purchase-rate calculation",
+        "originalPath": "/features/partner-purchase-rate-calculation"
+      },
+      {
+        "id": "promotional-bonus-allocation",
+        "title": "Promotional bonus allocation",
+        "originalPath": "/features/promotional-bonus-allocation"
+      },
+      {
+        "id": "expiration-breakage",
+        "title": "Expiration breakage",
+        "originalPath": "/features/expiration-breakage"
+      },
+      {
+        "id": "partner-program-economics",
+        "title": "Partner program economics",
+        "originalPath": "/features/partner-program-economics"
+      },
+      {
+        "id": "rma-ingestion",
+        "title": "RMA ingestion",
+        "originalPath": "/features/rma-ingestion"
+      },
+      {
+        "id": "carrier-event-tracking",
+        "title": "Carrier event tracking",
+        "originalPath": "/features/carrier-event-tracking"
+      },
+      {
+        "id": "refurbishment-economics",
+        "title": "Refurbishment economics",
+        "originalPath": "/features/refurbishment-economics"
+      },
+      {
+        "id": "liquidation-lot-creation",
+        "title": "Liquidation lot creation",
+        "originalPath": "/features/liquidation-lot-creation"
+      },
+      {
+        "id": "expected-resale-value",
+        "title": "Expected resale value",
+        "originalPath": "/features/expected-resale-value"
+      },
+      {
+        "id": "dispute-workflow",
+        "title": "Dispute workflow",
+        "originalPath": "/features/dispute-workflow"
+      },
+      {
+        "id": "cash-recovery-tracking",
+        "title": "Cash recovery tracking",
+        "originalPath": "/features/cash-recovery-tracking"
+      },
+      {
+        "id": "product-disposition-analytics",
+        "title": "Product disposition analytics",
+        "originalPath": "/features/product-disposition-analytics"
+      },
+      {
+        "id": "retailer-program-library",
+        "title": "Retailer program library",
+        "originalPath": "/features/retailer-program-library"
+      },
+      {
+        "id": "store-sku-registry",
+        "title": "Store SKU registry",
+        "originalPath": "/features/store-sku-registry"
+      },
+      {
+        "id": "slotting-commitment-tracking",
+        "title": "Slotting commitment tracking",
+        "originalPath": "/features/slotting-commitment-tracking"
+      },
+      {
+        "id": "new-store-authorization",
+        "title": "New-store authorization",
+        "originalPath": "/features/new-store-authorization"
+      },
+      {
+        "id": "pos-scan-ingestion",
+        "title": "POS scan ingestion",
+        "originalPath": "/features/pos-scan-ingestion"
+      },
+      {
+        "id": "scan-back-calculation",
+        "title": "Scan-back calculation",
+        "originalPath": "/features/scan-back-calculation"
+      },
+      {
+        "id": "proof-of-performance-collection",
+        "title": "Proof-of-performance collection",
+        "originalPath": "/features/proof-of-performance-collection"
+      },
+      {
+        "id": "earned-allowance-calculation",
+        "title": "Earned allowance calculation",
+        "originalPath": "/features/earned-allowance-calculation"
+      },
+      {
+        "id": "supplier-claim-package",
+        "title": "Supplier claim package",
+        "originalPath": "/features/supplier-claim-package"
+      },
+      {
+        "id": "supplier-response-workflow",
+        "title": "Supplier response workflow",
+        "originalPath": "/features/supplier-response-workflow"
+      },
+      {
+        "id": "store-sku-program-analytics",
+        "title": "Store SKU program analytics",
+        "originalPath": "/features/store-sku-program-analytics"
+      },
+      {
+        "id": "lot-description",
+        "title": "AI: Lot Description",
+        "originalPath": "/features/lot-description"
+      },
+      {
+        "id": "valuation",
+        "title": "AI: Valuation",
+        "originalPath": "/features/valuation"
+      },
+      {
+        "id": "authenticity",
+        "title": "AI: Authenticity",
+        "originalPath": "/features/authenticity"
+      },
+      {
+        "id": "similarity-matcher",
+        "title": "Similarity matcher",
+        "originalPath": "/features/similarity-matcher"
+      },
+      {
+        "id": "bidding-analytics",
+        "title": "Bidding analytics",
+        "originalPath": "/features/bidding-analytics"
+      },
+      {
+        "id": "multi-language-catalog",
+        "title": "Multi language catalog",
+        "originalPath": "/features/multi-language-catalog"
+      },
+      {
+        "id": "condition-report",
+        "title": "Condition report",
+        "originalPath": "/features/condition-report"
+      },
+      {
+        "id": "buyer-preference",
+        "title": "Buyer preference",
+        "originalPath": "/features/buyer-preference"
+      },
+      {
+        "id": "insurance-valuation",
+        "title": "Insurance valuation",
+        "originalPath": "/features/insurance-valuation"
+      },
+      {
+        "id": "photo-enhancement",
+        "title": "Photo enhancement",
+        "originalPath": "/features/photo-enhancement"
+      },
+      {
+        "id": "external-auction-search",
+        "title": "External auction search",
+        "originalPath": "/features/external-auction-search"
+      },
+      {
+        "id": "contract-generator",
+        "title": "Contract Generator",
+        "originalPath": "/features/contract-generator"
+      },
+      {
+        "id": "chatbot",
+        "title": "AI Chatbot",
+        "originalPath": "/features/chatbot"
+      },
+      {
+        "id": "equipment-valuation",
+        "title": "Equipment Valuation",
+        "originalPath": "/features/equipment-valuation"
+      },
+      {
+        "id": "route-planner",
+        "title": "Route Planner",
+        "originalPath": "/features/route-planner"
+      },
+      {
+        "id": "description-generator",
+        "title": "Description Generator",
+        "originalPath": "/features/description-generator"
+      },
+      {
+        "id": "insurance-advisor",
+        "title": "Insurance Advisor",
+        "originalPath": "/features/insurance-advisor"
+      },
+      {
+        "id": "equipment",
+        "title": "Equipment",
+        "originalPath": "/features/equipment"
+      },
+      {
+        "id": "nearby",
+        "title": "Nearby",
+        "originalPath": "/features/nearby"
+      },
+      {
+        "id": "rentals",
+        "title": "Rentals",
+        "originalPath": "/features/rentals"
+      },
+      {
+        "id": "bids",
+        "title": "Bids",
+        "originalPath": "/features/bids"
+      },
+      {
+        "id": "reviews",
+        "title": "Reviews",
+        "originalPath": "/features/reviews"
+      },
+      {
+        "id": "damage-reports",
+        "title": "Damage Reports",
+        "originalPath": "/features/damage-reports"
+      },
+      {
+        "id": "identity",
+        "title": "Identity",
+        "originalPath": "/features/identity"
+      },
+      {
+        "id": "fleet-analytics",
+        "title": "Fleet Analytics",
+        "originalPath": "/features/fleet-analytics"
+      },
+      {
+        "id": "dead-stock",
+        "title": "Dead Stock",
+        "originalPath": "/features/dead-stock"
+      },
+      {
+        "id": "warehouse-optimizer",
+        "title": "Warehouse Layout",
+        "originalPath": "/features/warehouse-optimizer"
+      },
+      {
+        "id": "shipment-tracker",
+        "title": "Shipment Tracker",
+        "originalPath": "/features/shipment-tracker"
+      },
+      {
+        "id": "promotion-simulator",
+        "title": "Promotion Simulator",
+        "originalPath": "/features/promotion-simulator"
+      },
+      {
+        "id": "markdown-timing",
+        "title": "Markdown Timing",
+        "originalPath": "/features/markdown-timing"
+      },
+      {
+        "id": "supplier-disruption-simulator",
+        "title": "Supplier Disruption Simulator",
+        "originalPath": "/features/supplier-disruption-simulator"
+      },
+      {
+        "id": "multi-warehouse-balancing",
+        "title": "Multi-Warehouse Balancing",
+        "originalPath": "/features/multi-warehouse-balancing"
+      },
+      {
+        "id": "markdown-timing-ai",
+        "title": "markdown timing ai",
+        "originalPath": "/features/markdown-timing-ai"
+      },
+      {
+        "id": "multi-warehouse-balancing-ai",
+        "title": "multi warehouse balancing ai",
+        "originalPath": "/features/multi-warehouse-balancing-ai"
+      },
+      {
+        "id": "inventory",
+        "title": "Inventory",
+        "originalPath": "/features/inventory"
+      },
+      {
+        "id": "cash",
+        "title": "Cash",
+        "originalPath": "/features/cash"
+      },
+      {
+        "id": "lifetime-value",
+        "title": "Customer Lifetime Value",
+        "originalPath": "/features/lifetime-value"
+      },
+      {
+        "id": "negotiation",
+        "title": "Negotiation Tips",
+        "originalPath": "/features/negotiation"
+      },
+      {
+        "id": "loan-calc",
+        "title": "Loan Calculator",
+        "originalPath": "/features/loan-calc"
+      },
+      {
+        "id": "planograms",
+        "title": "Planograms",
+        "originalPath": "/features/planograms"
+      },
+      {
+        "id": "app-ai",
+        "title": "AI Studio",
+        "originalPath": "/features/app-ai"
+      },
+      {
+        "id": "solutions-retail",
+        "title": "Retail",
+        "originalPath": "/features/solutions-retail"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "product-eligibility-mapping",
+      "claim-quantity-validation",
+      "authorization-period-control",
+      "on-rent-and-off-rent-validation",
+      "meter-and-overtime-usage-audit",
+      "fuel-and-refueling-charge-validation",
+      "delivery-pickup-and-mobilization-audit",
+      "opening-deadline-control",
+      "exclusion-and-discount-validation",
+      "franchisee-audit-workbench",
+      "finding-and-evidence-package",
+      "fraud-duplicate-redemption",
+      "fraud-duplicate-events",
+      "return-policy-library",
+      "condition-grade-validation",
+      "restock-eligibility",
+      "display-placement-evidence",
+      "advertising-compliance",
+      "compliance",
+      "provenance-verification",
+      "insurance-policy-recommendation",
+      "fraud-detection",
+      "risk-assessment",
+      "return-inspection",
+      "agentic-compliance-auditor-reviewing-pls",
+      "supplier-risk",
+      "risk",
+      "anomaly-detection",
+      "theft-anomaly-detection-ai"
+    ],
+    "ai": true,
+    "representativeId": "product-eligibility-mapping",
+    "description": "One assistant for 29 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "product-eligibility-mapping",
+        "title": "Product eligibility mapping",
+        "originalPath": "/features/product-eligibility-mapping"
+      },
+      {
+        "id": "claim-quantity-validation",
+        "title": "Claim quantity validation",
+        "originalPath": "/features/claim-quantity-validation"
+      },
+      {
+        "id": "authorization-period-control",
+        "title": "Authorization period control",
+        "originalPath": "/features/authorization-period-control"
+      },
+      {
+        "id": "on-rent-and-off-rent-validation",
+        "title": "On-rent and off-rent validation",
+        "originalPath": "/features/on-rent-and-off-rent-validation"
+      },
+      {
+        "id": "meter-and-overtime-usage-audit",
+        "title": "Meter and overtime usage audit",
+        "originalPath": "/features/meter-and-overtime-usage-audit"
+      },
+      {
+        "id": "fuel-and-refueling-charge-validation",
+        "title": "Fuel and refueling charge validation",
+        "originalPath": "/features/fuel-and-refueling-charge-validation"
+      },
+      {
+        "id": "delivery-pickup-and-mobilization-audit",
+        "title": "Delivery pickup and mobilization audit",
+        "originalPath": "/features/delivery-pickup-and-mobilization-audit"
+      },
+      {
+        "id": "opening-deadline-control",
+        "title": "Opening deadline control",
+        "originalPath": "/features/opening-deadline-control"
+      },
+      {
+        "id": "exclusion-and-discount-validation",
+        "title": "Exclusion and discount validation",
+        "originalPath": "/features/exclusion-and-discount-validation"
+      },
+      {
+        "id": "franchisee-audit-workbench",
+        "title": "Franchisee audit workbench",
+        "originalPath": "/features/franchisee-audit-workbench"
+      },
+      {
+        "id": "finding-and-evidence-package",
+        "title": "Finding and evidence package",
+        "originalPath": "/features/finding-and-evidence-package"
+      },
+      {
+        "id": "fraud-duplicate-redemption",
+        "title": "Fraud duplicate redemption",
+        "originalPath": "/features/fraud-duplicate-redemption"
+      },
+      {
+        "id": "fraud-duplicate-events",
+        "title": "Fraud duplicate events",
+        "originalPath": "/features/fraud-duplicate-events"
+      },
+      {
+        "id": "return-policy-library",
+        "title": "Return policy library",
+        "originalPath": "/features/return-policy-library"
+      },
+      {
+        "id": "condition-grade-validation",
+        "title": "Condition grade validation",
+        "originalPath": "/features/condition-grade-validation"
+      },
+      {
+        "id": "restock-eligibility",
+        "title": "Restock eligibility",
+        "originalPath": "/features/restock-eligibility"
+      },
+      {
+        "id": "display-placement-evidence",
+        "title": "Display placement evidence",
+        "originalPath": "/features/display-placement-evidence"
+      },
+      {
+        "id": "advertising-compliance",
+        "title": "Advertising compliance",
+        "originalPath": "/features/advertising-compliance"
+      },
+      {
+        "id": "compliance",
+        "title": "Compliance",
+        "originalPath": "/features/compliance"
+      },
+      {
+        "id": "provenance-verification",
+        "title": "Provenance verification",
+        "originalPath": "/features/provenance-verification"
+      },
+      {
+        "id": "insurance-policy-recommendation",
+        "title": "Insurance policy recommendation",
+        "originalPath": "/features/insurance-policy-recommendation"
+      },
+      {
+        "id": "fraud-detection",
+        "title": "Fraud Detection",
+        "originalPath": "/features/fraud-detection"
+      },
+      {
+        "id": "risk-assessment",
+        "title": "Risk Assessment",
+        "originalPath": "/features/risk-assessment"
+      },
+      {
+        "id": "return-inspection",
+        "title": "Return Inspection",
+        "originalPath": "/features/return-inspection"
+      },
+      {
+        "id": "agentic-compliance-auditor-reviewing-pls",
+        "title": "agentic compliance auditor reviewing pls",
+        "originalPath": "/features/agentic-compliance-auditor-reviewing-pls"
+      },
+      {
+        "id": "supplier-risk",
+        "title": "Supplier Risk",
+        "originalPath": "/features/supplier-risk"
+      },
+      {
+        "id": "risk",
+        "title": "Loan Risk Scoring",
+        "originalPath": "/features/risk"
+      },
+      {
+        "id": "anomaly-detection",
+        "title": "Anomaly Detection",
+        "originalPath": "/features/anomaly-detection"
+      },
+      {
+        "id": "theft-anomaly-detection-ai",
+        "title": "theft anomaly detection ai",
+        "originalPath": "/features/theft-anomaly-detection-ai"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "distributor-sales-ingestion",
+      "pos-sales-ingestion",
+      "gross-sales-reconstruction",
+      "transfer-conversion-ratios",
+      "marketing",
+      "franchisee-ltv-or-churn-prediction",
+      "marketing-spend-optimizer-across-unit",
+      "sales",
+      "upsell"
+    ],
+    "ai": true,
+    "representativeId": "distributor-sales-ingestion",
+    "description": "One assistant for 9 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "distributor-sales-ingestion",
+        "title": "Distributor sales ingestion",
+        "originalPath": "/features/distributor-sales-ingestion"
+      },
+      {
+        "id": "pos-sales-ingestion",
+        "title": "POS sales ingestion",
+        "originalPath": "/features/pos-sales-ingestion"
+      },
+      {
+        "id": "gross-sales-reconstruction",
+        "title": "Gross-sales reconstruction",
+        "originalPath": "/features/gross-sales-reconstruction"
+      },
+      {
+        "id": "transfer-conversion-ratios",
+        "title": "Transfer conversion ratios",
+        "originalPath": "/features/transfer-conversion-ratios"
+      },
+      {
+        "id": "marketing",
+        "title": "AI: Marketing",
+        "originalPath": "/features/marketing"
+      },
+      {
+        "id": "franchisee-ltv-or-churn-prediction",
+        "title": "franchisee ltv or churn prediction",
+        "originalPath": "/features/franchisee-ltv-or-churn-prediction"
+      },
+      {
+        "id": "marketing-spend-optimizer-across-unit",
+        "title": "marketing spend optimizer across unit",
+        "originalPath": "/features/marketing-spend-optimizer-across-unit"
+      },
+      {
+        "id": "sales",
+        "title": "Sales Analytics",
+        "originalPath": "/features/sales"
+      },
+      {
+        "id": "upsell",
+        "title": "Upsell",
+        "originalPath": "/features/upsell"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "contract-price-calculation",
+      "resale-price-validation",
+      "credit-memo-matching",
+      "distributor-settlement",
+      "maintenance-and-downtime-credits",
+      "invoice-dispute-package",
+      "vendor-credit-and-payment-reconciliation",
+      "initial-fee-calculation",
+      "renewal-fee-calculation",
+      "transfer-fee-calculation",
+      "invoice-generation",
+      "cash-reconciliation",
+      "delivery-platform-reconciliation",
+      "bank-deposit-reconciliation",
+      "tax-return-comparison",
+      "royalty-recalculation",
+      "late-fee-and-interest-calculation",
+      "activation-reconciliation",
+      "multi-brand-settlement",
+      "processor-fee-audit",
+      "refund-replacement-control",
+      "partner-settlement-reconciliation",
+      "cash-liability-reconciliation",
+      "redemption-reimbursement",
+      "reversal-refund-control",
+      "partner-statement-reconciliation",
+      "settlement-dispute-workflow",
+      "channel-fee-audit",
+      "liquidator-statement-reconciliation",
+      "cash-credit-reconciliation",
+      "dynamic-reserve-pricing",
+      "predict-final-price",
+      "price-optimization",
+      "pricing-recommendation-engine",
+      "auction-price",
+      "market",
+      "market-price",
+      "dynamic-pricing",
+      "dynamic-pricing-recommendations-by-demand-inventory-seasonality",
+      "dynamic-pricing-ai"
+    ],
+    "ai": true,
+    "representativeId": "contract-price-calculation",
+    "description": "One assistant for 40 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "contract-price-calculation",
+        "title": "Contract price calculation",
+        "originalPath": "/features/contract-price-calculation"
+      },
+      {
+        "id": "resale-price-validation",
+        "title": "Resale price validation",
+        "originalPath": "/features/resale-price-validation"
+      },
+      {
+        "id": "credit-memo-matching",
+        "title": "Credit memo matching",
+        "originalPath": "/features/credit-memo-matching"
+      },
+      {
+        "id": "distributor-settlement",
+        "title": "Distributor settlement",
+        "originalPath": "/features/distributor-settlement"
+      },
+      {
+        "id": "maintenance-and-downtime-credits",
+        "title": "Maintenance and downtime credits",
+        "originalPath": "/features/maintenance-and-downtime-credits"
+      },
+      {
+        "id": "invoice-dispute-package",
+        "title": "Invoice dispute package",
+        "originalPath": "/features/invoice-dispute-package"
+      },
+      {
+        "id": "vendor-credit-and-payment-reconciliation",
+        "title": "Vendor credit and payment reconciliation",
+        "originalPath": "/features/vendor-credit-and-payment-reconciliation"
+      },
+      {
+        "id": "initial-fee-calculation",
+        "title": "Initial fee calculation",
+        "originalPath": "/features/initial-fee-calculation"
+      },
+      {
+        "id": "renewal-fee-calculation",
+        "title": "Renewal fee calculation",
+        "originalPath": "/features/renewal-fee-calculation"
+      },
+      {
+        "id": "transfer-fee-calculation",
+        "title": "Transfer fee calculation",
+        "originalPath": "/features/transfer-fee-calculation"
+      },
+      {
+        "id": "invoice-generation",
+        "title": "Invoice generation",
+        "originalPath": "/features/invoice-generation"
+      },
+      {
+        "id": "cash-reconciliation",
+        "title": "Cash reconciliation",
+        "originalPath": "/features/cash-reconciliation"
+      },
+      {
+        "id": "delivery-platform-reconciliation",
+        "title": "Delivery-platform reconciliation",
+        "originalPath": "/features/delivery-platform-reconciliation"
+      },
+      {
+        "id": "bank-deposit-reconciliation",
+        "title": "Bank deposit reconciliation",
+        "originalPath": "/features/bank-deposit-reconciliation"
+      },
+      {
+        "id": "tax-return-comparison",
+        "title": "Tax-return comparison",
+        "originalPath": "/features/tax-return-comparison"
+      },
+      {
+        "id": "royalty-recalculation",
+        "title": "Royalty recalculation",
+        "originalPath": "/features/royalty-recalculation"
+      },
+      {
+        "id": "late-fee-and-interest-calculation",
+        "title": "Late fee and interest calculation",
+        "originalPath": "/features/late-fee-and-interest-calculation"
+      },
+      {
+        "id": "activation-reconciliation",
+        "title": "Activation reconciliation",
+        "originalPath": "/features/activation-reconciliation"
+      },
+      {
+        "id": "multi-brand-settlement",
+        "title": "Multi-brand settlement",
+        "originalPath": "/features/multi-brand-settlement"
+      },
+      {
+        "id": "processor-fee-audit",
+        "title": "Processor fee audit",
+        "originalPath": "/features/processor-fee-audit"
+      },
+      {
+        "id": "refund-replacement-control",
+        "title": "Refund replacement control",
+        "originalPath": "/features/refund-replacement-control"
+      },
+      {
+        "id": "partner-settlement-reconciliation",
+        "title": "Partner settlement reconciliation",
+        "originalPath": "/features/partner-settlement-reconciliation"
+      },
+      {
+        "id": "cash-liability-reconciliation",
+        "title": "Cash liability reconciliation",
+        "originalPath": "/features/cash-liability-reconciliation"
+      },
+      {
+        "id": "redemption-reimbursement",
+        "title": "Redemption reimbursement",
+        "originalPath": "/features/redemption-reimbursement"
+      },
+      {
+        "id": "reversal-refund-control",
+        "title": "Reversal refund control",
+        "originalPath": "/features/reversal-refund-control"
+      },
+      {
+        "id": "partner-statement-reconciliation",
+        "title": "Partner statement reconciliation",
+        "originalPath": "/features/partner-statement-reconciliation"
+      },
+      {
+        "id": "settlement-dispute-workflow",
+        "title": "Settlement dispute workflow",
+        "originalPath": "/features/settlement-dispute-workflow"
+      },
+      {
+        "id": "channel-fee-audit",
+        "title": "Channel fee audit",
+        "originalPath": "/features/channel-fee-audit"
+      },
+      {
+        "id": "liquidator-statement-reconciliation",
+        "title": "Liquidator statement reconciliation",
+        "originalPath": "/features/liquidator-statement-reconciliation"
+      },
+      {
+        "id": "cash-credit-reconciliation",
+        "title": "Cash credit reconciliation",
+        "originalPath": "/features/cash-credit-reconciliation"
+      },
+      {
+        "id": "dynamic-reserve-pricing",
+        "title": "Dynamic reserve pricing",
+        "originalPath": "/features/dynamic-reserve-pricing"
+      },
+      {
+        "id": "predict-final-price",
+        "title": "Predict final price",
+        "originalPath": "/features/predict-final-price"
+      },
+      {
+        "id": "price-optimization",
+        "title": "Price Optimization",
+        "originalPath": "/features/price-optimization"
+      },
+      {
+        "id": "pricing-recommendation-engine",
+        "title": "Pricing recommendation engine",
+        "originalPath": "/features/pricing-recommendation-engine"
+      },
+      {
+        "id": "auction-price",
+        "title": "Auction Price Suggest",
+        "originalPath": "/features/auction-price"
+      },
+      {
+        "id": "market",
+        "title": "Market Price Trends",
+        "originalPath": "/features/market"
+      },
+      {
+        "id": "market-price",
+        "title": "Market Price Lookup",
+        "originalPath": "/features/market-price"
+      },
+      {
+        "id": "dynamic-pricing",
+        "title": "Pricing v2",
+        "originalPath": "/features/dynamic-pricing"
+      },
+      {
+        "id": "dynamic-pricing-recommendations-by-demand-inventory-seasonality",
+        "title": "dynamic pricing recommendations by demand inventory seasonality",
+        "originalPath": "/features/dynamic-pricing-recommendations-by-demand-inventory-seasonality"
+      },
+      {
+        "id": "dynamic-pricing-ai",
+        "title": "dynamic pricing ai",
+        "originalPath": "/features/dynamic-pricing-ai"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "duplicate-claim-detection",
+      "duplicate-and-overlapping-rental-detection",
+      "development-default-detection",
+      "unclaimed-property-classification",
+      "warehouse-receipt-matching",
+      "missing-unit-detection",
+      "deduction-matching",
+      "buyer-matching",
+      "market-trends",
+      "shill-bidding-detection",
+      "equipment-matching",
+      "demand-forecast",
+      "maintenance-predictor",
+      "market-analysis",
+      "review-analyzer",
+      "inventory-optimizer",
+      "insights",
+      "benchmark",
+      "dynamic-territory-optimization-recommend",
+      "territory-optimization-ai-consolidati",
+      "multi-unit-demand-forecasting",
+      "forecasts",
+      "demand-predictor",
+      "reorder-optimizer",
+      "expiry-waste-optimizer",
+      "markdown-clearance-optimizer-balancing-d",
+      "predictive",
+      "loan-default-prediction-intervention",
+      "expiration",
+      "theft-detection",
+      "counterfeit",
+      "predictive-maintenance",
+      "ai-demand-forecaster-by-machine-location-time-for",
+      "predictive-maintenance-based-on-telemetry-signatures",
+      "demand-forecasting-ai",
+      "predictive-maintenance-ml",
+      "collab-forecast",
+      "product-recommendation",
+      "demand-forecasting"
+    ],
+    "ai": true,
+    "representativeId": "duplicate-claim-detection",
+    "description": "One assistant for 39 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "duplicate-claim-detection",
+        "title": "Duplicate claim detection",
+        "originalPath": "/features/duplicate-claim-detection"
+      },
+      {
+        "id": "duplicate-and-overlapping-rental-detection",
+        "title": "Duplicate and overlapping rental detection",
+        "originalPath": "/features/duplicate-and-overlapping-rental-detection"
+      },
+      {
+        "id": "development-default-detection",
+        "title": "Development default detection",
+        "originalPath": "/features/development-default-detection"
+      },
+      {
+        "id": "unclaimed-property-classification",
+        "title": "Unclaimed property classification",
+        "originalPath": "/features/unclaimed-property-classification"
+      },
+      {
+        "id": "warehouse-receipt-matching",
+        "title": "Warehouse receipt matching",
+        "originalPath": "/features/warehouse-receipt-matching"
+      },
+      {
+        "id": "missing-unit-detection",
+        "title": "Missing unit detection",
+        "originalPath": "/features/missing-unit-detection"
+      },
+      {
+        "id": "deduction-matching",
+        "title": "Deduction matching",
+        "originalPath": "/features/deduction-matching"
+      },
+      {
+        "id": "buyer-matching",
+        "title": "AI: Buyer Matching",
+        "originalPath": "/features/buyer-matching"
+      },
+      {
+        "id": "market-trends",
+        "title": "AI: Market Trends",
+        "originalPath": "/features/market-trends"
+      },
+      {
+        "id": "shill-bidding-detection",
+        "title": "Shill bidding detection",
+        "originalPath": "/features/shill-bidding-detection"
+      },
+      {
+        "id": "equipment-matching",
+        "title": "Equipment Matching",
+        "originalPath": "/features/equipment-matching"
+      },
+      {
+        "id": "demand-forecast",
+        "title": "Demand Forecast",
+        "originalPath": "/features/demand-forecast"
+      },
+      {
+        "id": "maintenance-predictor",
+        "title": "Maintenance Predictor",
+        "originalPath": "/features/maintenance-predictor"
+      },
+      {
+        "id": "market-analysis",
+        "title": "Market Analysis",
+        "originalPath": "/features/market-analysis"
+      },
+      {
+        "id": "review-analyzer",
+        "title": "Review Analyzer",
+        "originalPath": "/features/review-analyzer"
+      },
+      {
+        "id": "inventory-optimizer",
+        "title": "Inventory Optimizer",
+        "originalPath": "/features/inventory-optimizer"
+      },
+      {
+        "id": "insights",
+        "title": "AI Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "benchmark",
+        "title": "Benchmark",
+        "originalPath": "/features/benchmark"
+      },
+      {
+        "id": "dynamic-territory-optimization-recommend",
+        "title": "dynamic territory optimization recommend",
+        "originalPath": "/features/dynamic-territory-optimization-recommend"
+      },
+      {
+        "id": "territory-optimization-ai-consolidati",
+        "title": "territory optimization ai consolidati",
+        "originalPath": "/features/territory-optimization-ai-consolidati"
+      },
+      {
+        "id": "multi-unit-demand-forecasting",
+        "title": "multi unit demand forecasting",
+        "originalPath": "/features/multi-unit-demand-forecasting"
+      },
+      {
+        "id": "forecasts",
+        "title": "Forecasts",
+        "originalPath": "/features/forecasts"
+      },
+      {
+        "id": "demand-predictor",
+        "title": "Demand Predictor",
+        "originalPath": "/features/demand-predictor"
+      },
+      {
+        "id": "reorder-optimizer",
+        "title": "Reorder Optimizer",
+        "originalPath": "/features/reorder-optimizer"
+      },
+      {
+        "id": "expiry-waste-optimizer",
+        "title": "Expiry waste optimizer",
+        "originalPath": "/features/expiry-waste-optimizer"
+      },
+      {
+        "id": "markdown-clearance-optimizer-balancing-d",
+        "title": "markdown clearance optimizer balancing d",
+        "originalPath": "/features/markdown-clearance-optimizer-balancing-d"
+      },
+      {
+        "id": "predictive",
+        "title": "AI Predictive",
+        "originalPath": "/features/predictive"
+      },
+      {
+        "id": "loan-default-prediction-intervention",
+        "title": "Loan default prediction + intervention",
+        "originalPath": "/features/loan-default-prediction-intervention"
+      },
+      {
+        "id": "expiration",
+        "title": "Expiration Optimize",
+        "originalPath": "/features/expiration"
+      },
+      {
+        "id": "theft-detection",
+        "title": "Theft Detection",
+        "originalPath": "/features/theft-detection"
+      },
+      {
+        "id": "counterfeit",
+        "title": "Counterfeit Detection",
+        "originalPath": "/features/counterfeit"
+      },
+      {
+        "id": "predictive-maintenance",
+        "title": "Predict Maint v2",
+        "originalPath": "/features/predictive-maintenance"
+      },
+      {
+        "id": "ai-demand-forecaster-by-machine-location-time-for",
+        "title": "ai demand forecaster by machine location time for",
+        "originalPath": "/features/ai-demand-forecaster-by-machine-location-time-for"
+      },
+      {
+        "id": "predictive-maintenance-based-on-telemetry-signatures",
+        "title": "predictive maintenance based on telemetry signatures",
+        "originalPath": "/features/predictive-maintenance-based-on-telemetry-signatures"
+      },
+      {
+        "id": "demand-forecasting-ai",
+        "title": "demand forecasting ai",
+        "originalPath": "/features/demand-forecasting-ai"
+      },
+      {
+        "id": "predictive-maintenance-ml",
+        "title": "predictive maintenance ml",
+        "originalPath": "/features/predictive-maintenance-ml"
+      },
+      {
+        "id": "collab-forecast",
+        "title": "Collab forecast",
+        "originalPath": "/features/collab-forecast"
+      },
+      {
+        "id": "product-recommendation",
+        "title": "Product recommendation",
+        "originalPath": "/features/product-recommendation"
+      },
+      {
+        "id": "demand-forecasting",
+        "title": "Demand forecasting",
+        "originalPath": "/features/demand-forecasting"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "dispatch-delivery-and-pickup-timeline",
+      "unit-schedule-tracking",
+      "recognition-schedules",
+      "routes",
+      "route-optimization",
+      "route-optimizer-minimizing-collection-restocking-distance",
+      "ai-driven-route-optimization"
+    ],
+    "ai": true,
+    "representativeId": "dispatch-delivery-and-pickup-timeline",
+    "description": "One assistant for 7 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "dispatch-delivery-and-pickup-timeline",
+        "title": "Dispatch delivery and pickup timeline",
+        "originalPath": "/features/dispatch-delivery-and-pickup-timeline"
+      },
+      {
+        "id": "unit-schedule-tracking",
+        "title": "Unit schedule tracking",
+        "originalPath": "/features/unit-schedule-tracking"
+      },
+      {
+        "id": "recognition-schedules",
+        "title": "Recognition schedules",
+        "originalPath": "/features/recognition-schedules"
+      },
+      {
+        "id": "routes",
+        "title": "Route Optimization",
+        "originalPath": "/features/routes"
+      },
+      {
+        "id": "route-optimization",
+        "title": "AI Route Optimizer",
+        "originalPath": "/features/route-optimization"
+      },
+      {
+        "id": "route-optimizer-minimizing-collection-restocking-distance",
+        "title": "route optimizer minimizing collection restocking distance",
+        "originalPath": "/features/route-optimizer-minimizing-collection-restocking-distance"
+      },
+      {
+        "id": "ai-driven-route-optimization",
+        "title": "ai driven route optimization",
+        "originalPath": "/features/ai-driven-route-optimization"
+      }
+    ]
+  }
+]
