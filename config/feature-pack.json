@@ -1,0 +1,22 @@
+{
+  "insights": [
+    {
+      "id": "insight-product-eligibility-mapping",
+      "feature": "product-eligibility-mapping",
+      "title": "Product eligibility mapping insight",
+      "focus": "Summarize Product eligibility mapping records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "insight-distributor-sales-ingestion",
+      "feature": "distributor-sales-ingestion",
+      "title": "Distributor sales ingestion insight",
+      "focus": "Summarize Distributor sales ingestion records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks, including unassigned work."
+    }
+  ]
+}

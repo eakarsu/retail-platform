@@ -421,3 +421,7 @@ Implemented across this workspace. The bottom-right **Ask AI** button opens a pe
 - Existing AI provider configuration, timeout, rate limit and safe response renderer are reused. The assistant answers and drafts; it does not execute record changes or external actions.
 
 Validation: shared backend tests, all 64 app builds/API checks, and all 64 browser checks passed with an injected test provider. Browser checks cover item context, navigation, saved history/reload, follow-ups, new-chat isolation, error recovery, word limits, keyboard controls, mobile bounds, safe Markdown rendering and attachment refresh. See [verification](reports/floating-ai-verification.json).
+
+## Wave 9C feature pack
+
+Authenticated tasks, search/filter and CSV export already existed. Added: JSON export (`records/export?format=json`, Export JSON button), optional `WORKSPACE_AUTH_TOKEN` bearer auth, and domain AI insights (`config/feature-pack.json`, `/api/workspace/insights`) with provider-only-when-configured (`OPENROUTER_API_KEY`/`OPENAI_API_KEY`) and otherwise a clearly labelled deterministic fallback (`aiGenerated:false`) preserving false/0/empty values in labelled sections. Tests: `tests/feature-pack.test.mjs`; gate `npm test`.
